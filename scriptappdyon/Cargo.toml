@@ -7,5 +7,9 @@ authors = ["name <email>"]
 #readme = "README.md"
 edition = "2018"
 
+#[[bin]]
+#name = "dynmod"
+#path = "src/main.rs"
+
 [dependencies]
 dyon = "0.44.0"

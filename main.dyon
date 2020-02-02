@@ -1,3 +1,14 @@
+/*
 fn main() {
     println("Hello world! dyon member!")
+}
+*/
+
+
+fn main() {
+    println("Hello world! dyon member!")
+
+    math := unwrap(load("math.dyon"))
+    game := unwrap(load(source: "game.dyon", imports: [math]))
+    call(game, "main", [])
 }

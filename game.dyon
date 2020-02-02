@@ -1,0 +1,6 @@
+fn main() {
+    a := 2
+    b := 3
+    println(addp(a, b)) // prints `5`
+    println(subtractp(a, b)) // prints `5`
+}
