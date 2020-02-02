@@ -1,0 +1,11 @@
+[package]
+name = "scriptappdyon"
+version = "0.1.0"
+description = ""
+#license = "CC0-1.0"
+authors = ["name <email>"]
+#readme = "README.md"
+edition = "2018"
+
+[dependencies]
+dyon = "0.44.0"
