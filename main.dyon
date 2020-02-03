@@ -11,4 +11,11 @@ fn main() {
     math := unwrap(load("math.dyon"))
     game := unwrap(load(source: "game.dyon", imports: [math]))
     call(game, "main", [])
+
+    // print("Type something: ")
+    // line := read_line()
+    // sleep(1)
+    // println(line)
+
+
 }

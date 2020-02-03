@@ -1,0 +1,10 @@
+fn main() {
+    // functions := unwrap(load("source/functions/functions.dyon"))
+    // print := unwrap(load(
+        // source: "source/functions/print.dyon",
+        // imports: [functions]
+    // ))
+    // call(print, "main", [])
+
+    say_hello()
+}
