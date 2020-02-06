@@ -32,9 +32,7 @@ cargo run scriptlibdyon (lib not command)
  * http://www.piston.rs/dyon-tutorial/dynamic-modules.html
  * https://github.com/PistonDevelopers/dyon-tutorial/tree/master/examples/multi_threads
  * http://www.piston.rs/dyon-tutorial/interop-with-rust.html
- * 
- * 
- * 
- * 
+ * https://stackoverflow.com/questions/19605132/is-it-possible-to-use-global-variables-in-rust
+ * https://doc.rust-lang.org/1.30.0/book/first-edition/const-and-static.html
  * 
  * 

@@ -7,4 +7,12 @@ fn main() {
     // call(print, "main", [])
 
     say_hello()
+    count_display()
+    count_display()
+    count_display()
+    count_display()
+
+    count_add() 
+
+    count_display()
 }
